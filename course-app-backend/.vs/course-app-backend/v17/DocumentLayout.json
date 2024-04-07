@@ -1,0 +1,228 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:models\\usercontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\models\\coursecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:models\\coursecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\migrations\\20240406145134_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:migrations\\20240406145134_initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\migrations\\user\\20240407012559_useradded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:migrations\\user\\20240407012559_useradded.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\migrations\\user\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:migrations\\user\\usercontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\migrations\\coursecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:migrations\\coursecontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|c:\\users\\sudip\\onedrive\\desktop\\course web project\\course-app-backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6DA1611E-3990-4ADA-ADCD-D3180A636B95}|course-app-backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:29:49.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CourseContext.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Models\\CourseContext.cs",
+              "RelativeDocumentMoniker": "Models\\CourseContext.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Models\\CourseContext.cs",
+              "RelativeToolTip": "Models\\CourseContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:36:22.734Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T00:56:21.151Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserContext.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Models\\UserContext.cs",
+              "RelativeDocumentMoniker": "Models\\UserContext.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Models\\UserContext.cs",
+              "RelativeToolTip": "Models\\UserContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T00:59:47.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Controllers\\UserController.cs",
+              "ViewState": "AQIAACcAAAAAAAAAAAAYwCAAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:01:42.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "Controllers\\CourseController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEgAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T15:16:11.895Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "20240406145134_initial.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Migrations\\20240406145134_initial.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240406145134_initial.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Migrations\\20240406145134_initial.cs",
+              "RelativeToolTip": "Migrations\\20240406145134_initial.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAzwCAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:51:34.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240407012559_userAdded.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Migrations\\User\\20240407012559_userAdded.cs",
+              "RelativeDocumentMoniker": "Migrations\\User\\20240407012559_userAdded.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Migrations\\User\\20240407012559_userAdded.cs",
+              "RelativeToolTip": "Migrations\\User\\20240407012559_userAdded.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAQwBoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T01:25:59.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UserContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Migrations\\User\\UserContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\User\\UserContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Migrations\\User\\UserContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\User\\UserContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-07T09:54:20.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CourseContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Migrations\\CourseContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\CourseContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Migrations\\CourseContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\CourseContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:53:08.218Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-06T14:47:39.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\sudip\\OneDrive\\Desktop\\Course Web Project\\course-app-backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-04-06T14:38:25.549Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
